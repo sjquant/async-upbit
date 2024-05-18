@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "aioupbit"
+name = "asyncupbit"
 version = "0.1.0"
 description = "비동기 기반의 파이썬 업비트 API 클라이언트"
 authors = ["sjquant <seonujang92@gmail.com>"]
