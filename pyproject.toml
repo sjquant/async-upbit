@@ -37,7 +37,7 @@ select = [
 ]
 
 [tool.pyright]
-include = ["aioupbit"]
+include = ["asyncupbit"]
 exclude = [
     "**/__pycache__",
 ]
